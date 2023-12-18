@@ -72,7 +72,7 @@ void Setup()
 
 void Draw()
 {
-	Sleep(200);
+	Sleep(200); // ожидание
 	system("cls");    // Очистка экрана консоли
 	
 	// Вывод верхней границы
@@ -311,6 +311,6 @@ int main()
 		Logic_Easy();
 		Logic_Hard();
 	}
-	
+	system("pause");
 	return 0;
 }
