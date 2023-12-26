@@ -1,0 +1,2 @@
+C:\Users\histo\OneDrive\Рабочий стол\Snake\x64\Debug\Snake.exe
+C:\Users\histo\OneDrive\Рабочий стол\Групповой проеект\Snake\x64\Debug\Snake.exe
